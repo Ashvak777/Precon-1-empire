@@ -1,0 +1,51 @@
+.elementor-10 .elementor-element.elementor-element-d9304b9 .elementskit-navbar-nav > li.current-menu-item > a {
+    color: #333333 !important;
+}
+.q-facts p {
+    margin-bottom: 3px !important;
+}
+.mib li {
+    color: #fff;
+    font-size: 14px;
+}
+.two-column-form-a {
+    display: flex;
+}
+
+.column-a {
+    flex: 1;
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+span.cfa-txt{
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 7px !important;
+    display: block;
+}
+.cfa-aaa {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 7px !important;
+    display: block;
+}
+
+.cfc-a   {
+    border-color: #999 !important;
+}
+.cfc-a input::placeholder {
+    color: #999 !important;
+}
+.cfc-a input {
+    padding: 0 15px !important;
+}
+.cfc-input {
+    margin-bottom: 15px;
+}
+span.cfa-not {
+    font-size: 14px;
+    line-height: 8px !important;
+}
+input.wpcf7-form-control.wpcf7-submit.has-spinner {
+    background: #81a395 !important;
+    padding: 6px 25px !important;
+}
